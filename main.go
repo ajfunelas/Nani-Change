@@ -18,8 +18,10 @@ func dropsau() {
 
 	soldoutText := doc.Find("#sold-out")
 	
-	if strings.Contains(soldoutText.Text(), "Buy now")
+	if strings.Contains(soldoutText.Text(), "Buy now") {
 		log.Println("Buy now button is available")
 		log.Println(soldoutText.Text())
 		return
+	}
+	log.Println("No change found")
 }
