@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 	"strings"
-	"golang.org/x/net/html"
+	// "golang.org/x/net/html"
 
-	"github.com/PuerkitoBio/goquery"
+	"github.com/PuerkitoBio/goquery" // fix this import issue
 )
 
 func dropsau() {
