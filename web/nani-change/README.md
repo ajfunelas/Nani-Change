@@ -36,3 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Features:
 
 - Monitor changes from a webpage
+
+# To do:
+
+- Create frontend to input web url
