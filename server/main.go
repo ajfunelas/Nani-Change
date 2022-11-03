@@ -3,6 +3,7 @@ package main
 import (
 	"log"
 	"strings"
+
 	// "golang.org/x/net/html"
 
 	"github.com/PuerkitoBio/goquery" // fix this import issue
